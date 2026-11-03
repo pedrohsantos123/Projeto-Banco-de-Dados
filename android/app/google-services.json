@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "76004754723",
+    "project_id": "bloco-de-turma",
+    "storage_bucket": "bloco-de-turma.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76004754723:android:712a8312d2c1b906733896",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwxQCPKuereOLqlwJ2Ja8o1qCOdNX8D-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
